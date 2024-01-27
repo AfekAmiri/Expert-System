@@ -1,0 +1,6 @@
+condition1;condition2;condition3;condition4;conclusion
+personne_aisee;temps_libre;;;peut_voyager
+temps_libre;;;;peut_faire_de_la_poterie
+peut_peindre;;;;peut_faire_un_produit_artisanal
+peut_faire_de_la_poterie;;;;peut_faire_un_produit_artisanal
+peut_faire_un_produit_artisanal;artiste;;;peut_faire_une_oeuvre_d'art
